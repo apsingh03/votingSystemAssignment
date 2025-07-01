@@ -139,8 +139,6 @@ function Dashboard() {
                   </div>
                 </div>
               </div>
-
-         
             </div>
 
             {candidate.voters.length > 0 && (

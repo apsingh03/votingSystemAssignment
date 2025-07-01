@@ -16,6 +16,8 @@ const initialState = {
   editingCandidate: null,
 };
 
+
+
 function votingReducer(state, action) {
   switch (action.type) {
     case "OPEN_MODAL":
